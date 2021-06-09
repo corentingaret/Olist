@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
-from olist.data import Olist
-from olist.order import Order
+from Olist.data import Olist
+from Olist.order import Order
 
 
 class Seller:

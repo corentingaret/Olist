@@ -1,8 +1,8 @@
 import os
 import pandas as pd
 import numpy as np
-from olist.utils import haversine_distance
-from olist.data import Olist
+from Olist.utils import haversine_distance
+from Olist.data import Olist
 
 
 class Order:
